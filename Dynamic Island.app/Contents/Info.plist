@@ -7,7 +7,7 @@
     <key>CFBundleExecutable</key>
     <string>DynamicIsland</string>
     <key>CFBundleIdentifier</key>
-    <string>com.yourname.dynamicisland</string>
+    <string>com.georgeb.dynamicisland</string>
     <key>CFBundleInfoDictionaryVersion</key>
     <string>6.0</string>
     <key>CFBundleName</key>
