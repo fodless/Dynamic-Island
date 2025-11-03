@@ -29,3 +29,7 @@ build/
 # Settings
 *.plist
 !Info.plist
+
+# Code signing (regenerated on each sign)
+Dynamic Island.app/Contents/_CodeSignature/
+*.backup
